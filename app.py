@@ -71,6 +71,7 @@ def show():
     print(tasks)
     return "all records are shown on the terminal"
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
    
+# (not required in production phase)
